@@ -16,10 +16,7 @@ Abhinash Pritiraj
 
 ## Installation
 
-1. Clone the repository:
-    bash
-    git clone (https://abhinash04.github.io/Music-Player-Project/)
-    
+1.You can check out my web application through this link: (https://abhinash04.github.io/Music-Player-Project/)   
 2. Open index.html in your web browser to launch the music player.
 
 ## Usage
