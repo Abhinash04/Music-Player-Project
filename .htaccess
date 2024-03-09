@@ -1,0 +1,6 @@
+# Enable caching for certain file types
+<FilesMatch "\.(html|css|js|png|jpg)$">
+    Header set Cache-Control "max-age=604800, public"
+    Header set ETag "123456789"
+    Header set Last-Modified "Wed, 10 Mar 2024 12:00:00 GMT"
+</FilesMatch>
